@@ -7,7 +7,7 @@ This project is a Python-based security tool designed to automate the initial tr
 - **Automated Parsing:** Handles complex multipart EML structures to extract plain-text body content.
 - **URL Extraction:** Utilizes Regex patterns to identify hidden or suspicious links.
 - **Threat Intelligence Integration:** Connects to VirusTotal for real-time reputation analysis.
-- **SOC Workflow:** Mimics the manual steps taken by a Tier 1 Analyst during phishing investigations.
+
 
 ## 🛠️ Technical Breakdown
 ### 1. EML Parsing & Decoding
